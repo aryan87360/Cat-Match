@@ -12,7 +12,7 @@ body {
     display: flex;
     flex-wrap: wrap;
     background-color: #E03B8B;
-    border: 10px solid lightgrey;
+    border: 10px solid #E03B8B;
 }
 
 .card {
